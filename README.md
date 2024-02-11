@@ -1,1 +1,1 @@
-# ctrl-v_codes
+# Download CopyTest.exe and Codes.txt
